@@ -34,8 +34,8 @@
 #define FRECUENCIA_RIEGO_3 0  // Frecuencia de riego zona 3 (cada n días)
 #define UMBRAL_HUMEDAD 2500   // Umbral de humedad para activar riego
 
-const char* WIFI_SSID = "virus";
-const char* WIFI_PASS = "hellokitty12";
+const char* WIFI_SSID = "Iphone";
+const char* WIFI_PASS = "nightwing";
 const char* CLIMA_API_KEY = "d9fb19db942b4691bfa30104251409";
 const char* LATITUD = "9.856640";
 const char* LONGITUD = "-83.912596";
